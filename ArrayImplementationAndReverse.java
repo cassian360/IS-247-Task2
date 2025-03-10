@@ -7,6 +7,7 @@ public class Main{
     fruits.add("Banana");
     fruits.add("Cherry");
     fruits.add("Date");
+    Iterator<String> iterator = fruits.iterator();
     
   }
 }
